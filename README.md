@@ -6,5 +6,6 @@ Nick 'Victory' Falkowski
 
 If you'd like to sign up, fork this project and submit a pull request adding your name. Bonus points for creative use of emoji :).
 
-Lee [ ¯\_()_/¯ ]
+Lee [ Â¯\_()_/Â¯ ]
 edwardcgordon
+Richard G. Gall
